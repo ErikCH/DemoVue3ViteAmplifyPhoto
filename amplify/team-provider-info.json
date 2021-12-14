@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vitegatestforcustome-dev-111556-authRole",
+      "UnauthRoleArn": "arn:aws:iam::134262286951:role/amplify-vitegatestforcustome-dev-111556-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::134262286951:role/amplify-vitegatestforcustome-dev-111556-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vitegatestforcustome-dev-111556-deployment",
+      "UnauthRoleName": "amplify-vitegatestforcustome-dev-111556-unauthRole",
+      "StackName": "amplify-vitegatestforcustome-dev-111556",
+      "StackId": "arn:aws:cloudformation:us-east-1:134262286951:stack/amplify-vitegatestforcustome-dev-111556/46e06bb0-5d12-11ec-affc-0e52bea8e7c9",
+      "AmplifyAppId": "d3m79wgt1z8fgv"
+    },
+    "categories": {
+      "auth": {
+        "vitegatestforcustomefbf526e5": {}
+      }
+    }
+  }
+}
